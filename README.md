@@ -5,11 +5,12 @@
 Qt Style Sheet Highlighter is free to use plugin.
 It helps working with [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.html).
 
-###Features:
+### Features:
 * Simple highlighting QSS file keywords and simple values.
 * Customizable Code Color Scheme
 
-This plugin does not verify logic of QWidgets and does not support code completion.   
+### Out of scope
+* This plugin does not verify logic of QWidgets and does not support code completion.   
 
 [Download](https://www.quickturnstudio.com)
 | [Request feature](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues)
