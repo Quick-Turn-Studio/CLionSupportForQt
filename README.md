@@ -15,11 +15,12 @@ Qt Style Sheet Highlighter is free to use the plugin.
 It helps working with [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.html).
 
 ### Features
-Simple highlighting QSS file keywords and simple values.
+
+#### Simple highlighting QSS file keywords and simple values.
 
 <img align="center" src="resources/qss-highlighter-screen.png" alt="QSS-Highlighter-screen"/>
 
-Customizable Code Color Scheme
+#### Customizable Code Color Scheme
 
 <img align="center" src="resources/qss-highlighter-color-scheme-editor.png" alt="QSS-Highlighter-color-scheme"/>
 
