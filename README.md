@@ -27,11 +27,10 @@ Wanna more support for working with Qt in CLion? [Request a plugin or vote for e
 
 Project is supported by:
 
-
-[![Quick Turn Studio logo](resources/quick-turn-studio-logo.png)](https://quickturnstudio.com)
+<a href="https://quickturnstudio.com"><img align="center" src="resources/quick-turn-studio-logo.png" alt="Quick Turn Studio website"/></a>
 
 Follow us on:
-<div style="text-align:center">
-<a href="(https://www.linkedin.com/company/quick-turn-studio"><img src="resources/linkedin-logo.png" alt="LinkedIn" width="200"/></a>
-<a href="(https://www.facebook.com/pg/QuickTurnStudio"><img src="rresources/facebook-logo.png" alt="Facebook" width="200"/></a>
+<div style="text-align: center">
+<a href="(https://www.linkedin.com/company/quick-turn-studio"><img align="center" src="resources/linkedin-logo.png" alt="LinkedIn" width="50"/></a>
+<a href="(https://www.facebook.com/pg/QuickTurnStudio"><img align="center" src="resources/facebook-logo.png" alt="Facebook" width="50"/></a>
 </div>
