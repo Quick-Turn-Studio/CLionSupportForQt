@@ -1,6 +1,8 @@
 # Working with Qt in CLion project
 
-## Qt Style Sheet Highlighter
+## Plugins
+
+### Qt Style Sheet Highlighter
 
 Qt Style Sheet Highlighter is free to use plugin.
 It helps working with [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.html).
@@ -19,4 +21,15 @@ It helps working with [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.h
 
 ## Other
 
-Wanna more support for working with Qt in CLion? [Request a plugin or vote for existing idea](https://www.quickturnstudio.com)
+Wanna more support for working with Qt in CLion? [Request a plugin or vote for existing idea](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues)
+
+## Credits
+
+Project is supported by:
+<div style="text-align:center"><img src="https://quickturnstudio.com/wp-content/uploads/2019/07/header-qts-logo.png"/></div>
+
+[![Quick Turn Studio logo](resources/quick-turn-studio-logo.png)](https://quickturnstudio.com)
+
+Follow us on:
+
+<div style="text-align:center"><img src="https://quickturnstudio.com/wp-content/uploads/2019/07/header-qts-logo.png"/><img src="https://quickturnstudio.com/wp-content/uploads/2019/07/header-qts-logo.png"/></div>
