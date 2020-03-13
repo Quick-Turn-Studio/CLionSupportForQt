@@ -30,7 +30,7 @@ Project is supported by:
 <a href="https://quickturnstudio.com"><img align="center" src="resources/quick-turn-studio-logo.png" alt="Quick Turn Studio website"/></a>
 
 Follow us on:
-<div style="text-align: center">
-<a href="(https://www.linkedin.com/company/quick-turn-studio"><img align="center" src="resources/linkedin-logo.png" alt="LinkedIn" width="50"/></a>
-<a href="(https://www.facebook.com/pg/QuickTurnStudio"><img align="center" src="resources/facebook-logo.png" alt="Facebook" width="50"/></a>
+<div style="display: block; margin-left: auto; margin-right: auto;">
+<a href="https://www.linkedin.com/company/quick-turn-studio"><img align="center" src="resources/linkedin-logo.png" alt="LinkedIn" width="50"/></a>
+<a href="https://www.facebook.com/QuickTurnStudio/"><img align="center" src="resources/facebook-logo.png" alt="Facebook" width="50"/></a>
 </div>
