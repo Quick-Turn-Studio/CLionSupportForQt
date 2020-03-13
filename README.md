@@ -16,17 +16,16 @@ It helps working with [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.h
 
 ### Features
 
-#### Simple highlighting QSS file keywords and simple values.
+* Simple highlighting QSS file keywords and simple values.
+* Incorrect syntax recognition
+* Finding simple typos 
+* Customizable Code Color Scheme
 
 <img align="center" src="resources/qss-highlighter-screen.png" alt="QSS-Highlighter-screen"/>
 
 <br/>
 
-#### Customizable Code Color Scheme
-
 <img align="center" src="resources/qss-highlighter-color-scheme-editor.png" alt="QSS-Highlighter-color-scheme"/>
-
-<br/>
 
 ### Out of scope
 
@@ -41,14 +40,14 @@ Wanna more support for working with Qt in CLion?
 
 Project is supported by:
 
-<a href="https://quickturnstudio.com"><img align="center" src="resources/quick-turn-studio-logo.png" alt="Quick Turn Studio website"/></a>
+<a href="https://quickturnstudio.com"><img align="middle" src="resources/quick-turn-studio-logo.png" alt="Quick Turn Studio website"/></a>
 
 Follow us on:
 <div style="text-align: center; display: block; margin-left: auto; margin-right: auto;">
     <a href="https://www.linkedin.com/company/quick-turn-studio">
-        <img align="center" src="resources/linkedin-logo.png" alt="LinkedIn" width="50"/>
+        <img align="middle" src="resources/linkedin-logo.png" alt="LinkedIn" width="50"/>
     </a>
     <a href="https://www.facebook.com/QuickTurnStudio/">
-        <img align="center" src="resources/facebook-logo.png" alt="Facebook" width="50"/>
+        <img align="middle" src="resources/facebook-logo.png" alt="Facebook" width="50"/>
     </a>
 </div>
