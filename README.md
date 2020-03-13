@@ -40,7 +40,7 @@ Wanna more support for working with Qt in CLion?
 
 Project is supported by:
 
-<a href="https://quickturnstudio.com"><img align="middle" src="resources/quick-turn-studio-logo.png" alt="Quick Turn Studio website"/></a>
+<a href="https://quickturnstudio.com/qtgithub"><img align="middle" src="resources/quick-turn-studio-logo.png" alt="Quick Turn Studio website"/></a>
 
 Follow us on:
 <div style="text-align: center; display: block; margin-left: auto; margin-right: auto;">
