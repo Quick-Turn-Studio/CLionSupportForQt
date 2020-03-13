@@ -6,26 +6,26 @@ This project is about helping Qt Community working in CLion.
 
 ### Qt Style Sheet Highlighter
 
+[Download](https://www.quickturnstudio.com)
+| [Request feature](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues)
+| [Report bug](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues)
+| [Vote for feature](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues)   
+
 Qt Style Sheet Highlighter is free to use the plugin.
 It helps working with [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.html).
 
 ### Features
 Simple highlighting QSS file keywords and simple values.
 
-![QSS-Highlighter-screen](resources/qss-highlighter-screen.png)
+<img align="center" src="resources/qss-highlighter-screen.png" alt="QSS-Highlighter-screen"/>
 
 Customizable Code Color Scheme
 
-![QSS-Highlighter-color-scheme](resources/qss-highlighter-color-scheme-editor.png)
+<img align="center" src="resources/qss-highlighter-color-scheme-editor.png" alt="QSS-Highlighter-color-scheme"/>
 
 ### Out of scope
 
 This plugin does not verify logic of QWidgets and does not support code completion.   
-
-[Download](https://www.quickturnstudio.com)
-| [Request feature](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues)
-| [Report bug](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues)
-| [Vote for feature](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues)   
 
 ## Other plugins
 
