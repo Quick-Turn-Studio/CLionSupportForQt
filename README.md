@@ -11,12 +11,12 @@ This project is about helping Qt Community working in CLion.
 | [Report bug](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues)
 | [Vote for feature](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues)   
 
-Qt Style Sheet Highlighter is free to use the plugin.
-It helps working with [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.html).
+Qt Style Sheet Highlighter plugin is free to use.
+It improves coding [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.html) experience in CLion.
 
 ### Features
 
-* Simple highlighting QSS file keywords and simple values.
+* Simple highlight of QSS file keywords and simple values.
 * Incorrect syntax recognition
 * Finding simple typos 
 * Customizable Code Color Scheme
@@ -32,22 +32,21 @@ It helps working with [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.h
 This plugin does not verify logic of QWidgets and does not support code completion.   
 
 ## Other plugins
-
-Wanna more support for working with Qt in CLion?
-[Request a plugin or vote for existing idea](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues).
+If you have any ideas or needs to boost your coding experience with QT, please [request a plugin or vote for existing idea](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues).
 
 ## Credits
 
-Project is supported by:
+Project is created and supported by:
 
 <a href="https://quickturnstudio.com/qtgithub"><img align="middle" src="resources/quick-turn-studio-logo.png" alt="Quick Turn Studio website"/></a>
 
 Follow us on:
 <div style="text-align: center; display: block; margin-left: auto; margin-right: auto;">
-    <a href="https://www.linkedin.com/company/quick-turn-studio">
-        <img align="middle" src="resources/linkedin-logo.png" alt="LinkedIn" width="50"/>
+    <a style="margin-right: 10px;" href="https://www.linkedin.com/company/quick-turn-studio">
+        <img align="middle" src="resources/linkedin-logo.png" alt="LinkedIn" width="30"/>
     </a>
+    
     <a href="https://www.facebook.com/QuickTurnStudio/">
-        <img align="middle" src="resources/facebook-logo.png" alt="Facebook" width="50"/>
+        <img align="middle" src="resources/facebook-logo.png" alt="Facebook" width="30"/>
     </a>
 </div>
