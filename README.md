@@ -44,8 +44,7 @@ Follow us on:
 <div style="text-align: center; display: block; margin-left: auto; margin-right: auto;">
     <a style="margin-right: 10px;" href="https://www.linkedin.com/company/quick-turn-studio">
         <img align="middle" src="resources/linkedin-logo.png" alt="LinkedIn" width="30"/>
-    </a>
-    
+    </a>    
     <a href="https://www.facebook.com/QuickTurnStudio/">
         <img align="middle" src="resources/facebook-logo.png" alt="Facebook" width="30"/>
     </a>
