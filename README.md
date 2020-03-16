@@ -38,14 +38,16 @@ If you have any ideas or needs to boost your coding experience with QT, please [
 
 Project is created and supported by:
 
-<a href="https://quickturnstudio.com/qtgithub"><img align="middle" src="resources/quick-turn-studio-logo.png" alt="Quick Turn Studio website"/></a>
+<a href="https://quickturnstudio.com/qtgithub">
+    <img align="middle" width="222" src="resources/quick-turn-studio-logo.png" alt="Quick Turn Studio website"/>
+</a>
 
 Follow us on:
-<div style="text-align: center; display: block; margin-left: auto; margin-right: auto;">
-    <a style="margin-right: 10px;" href="https://www.linkedin.com/company/quick-turn-studio">
-        <img align="middle" src="resources/linkedin-logo.png" alt="LinkedIn" width="30"/>
+<div style="text-align: center; display: inline-block; ">
+    <a  href="https://www.linkedin.com/company/quick-turn-studio">
+        <img style="margin-right: 10px;" src="resources/linkedin-logo.png" alt="LinkedIn" width="30"/>
     </a>    
     <a href="https://www.facebook.com/QuickTurnStudio/">
-        <img align="middle" src="resources/facebook-logo.png" alt="Facebook" width="30"/>
+        <img src="resources/facebook-logo.png" alt="Facebook" width="30"/>
     </a>
 </div>
