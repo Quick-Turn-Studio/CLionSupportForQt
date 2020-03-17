@@ -22,7 +22,7 @@ It improves coding [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.html
 * Finding simple typos 
 * Customizable Code Color Scheme
 
-<img align="center" src="resources/qss-highlighter-screen.png" alt="QSS-Highlighter-screen"/>
+<img align="center" width="617" src="resources/qss-highlighter.gif" alt="QSS-Highlighter-screen"/>
 
 <br/>
 
