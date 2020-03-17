@@ -6,9 +6,9 @@ This project is about helping Qt Community working in CLion.
 
 <img align="left" src="resources/QssHighlighterLogo.svg"/>
 <h3>Qt Style Sheet Highlighter</h3>
-<a href="https://www.quickturnstudio.com">Download</a>|
-<a href="https://www.quickturnstudio.com">Request feature</a>|
-<a href="https://www.quickturnstudio.com">Report bug</a>|
+<a href="https://www.quickturnstudio.com">Download</a> |
+<a href="https://www.quickturnstudio.com">Request feature</a> |
+<a href="https://www.quickturnstudio.com">Report bug</a> |
 <a href="https://www.quickturnstudio.com">Vote for feature</a><br/><br/>
 
 
