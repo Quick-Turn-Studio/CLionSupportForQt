@@ -4,7 +4,9 @@ This project is about helping Qt Community working in CLion.
 
 ## Plugins
 
-### Qt Style Sheet Highlighter
+![QssHighlighterLogo](resources/QssHighlighterLogo.svg)
+
+###  Qt Style Sheet Highlighter
 
 [Download](https://www.quickturnstudio.com)
 | [Request feature](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues)
