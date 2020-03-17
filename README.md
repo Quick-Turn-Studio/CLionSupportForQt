@@ -9,7 +9,7 @@ This project is about helping Qt Community working in CLion.
 <a href="https://www.quickturnstudio.com">Download</a>|
 <a href="https://www.quickturnstudio.com">Request feature</a>|
 <a href="https://www.quickturnstudio.com">Report bug</a>|
-<a href="https://www.quickturnstudio.com">Vote for feature</a>
+<a href="https://www.quickturnstudio.com">Vote for feature</a><br/>
 
 
 Qt Style Sheet Highlighter plugin is free to use.
