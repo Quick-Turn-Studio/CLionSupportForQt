@@ -4,14 +4,13 @@ This project is about helping Qt Community working in CLion.
 
 ## Plugins
 
-![QssHighlighterLogo](resources/QssHighlighterLogo.svg)
+<img align="left" src="resources/QssHighlighterLogo.svg"/>
+<h3>Qt Style Sheet Highlighter</h3>
+<a href="https://www.quickturnstudio.com">Download</a>|
+<a href="https://www.quickturnstudio.com">Request feature</a>|
+<a href="https://www.quickturnstudio.com">Report bug</a>|
+<a href="https://www.quickturnstudio.com">Vote for feature</a>
 
-###  Qt Style Sheet Highlighter
-
-[Download](https://www.quickturnstudio.com)
-| [Request feature](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues)
-| [Report bug](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues)
-| [Vote for feature](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues)   
 
 Qt Style Sheet Highlighter plugin is free to use.
 It improves coding [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.html) experience in CLion.
