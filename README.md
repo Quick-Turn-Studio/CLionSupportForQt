@@ -4,7 +4,7 @@ This project is about helping Qt Community working in JetBrains Editors like CLi
 
 ## Plugins
 
-<img align="left" src="resources/QssHighlighterLogo.svg"/>
+<img align="left" src="resources/QmlEditorLogo.svg"/>
 <h3>QML Editor</h3>
 <a href="https://quickturnstudio.com">Download</a> |
 <a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Request feature</a> |
@@ -14,6 +14,12 @@ This project is about helping Qt Community working in JetBrains Editors like CLi
 QML Editor helps to work with QML in JetBrains Editors
 
 Current version: 0.9
+
+<img align="center" width="617" src="resources/qml-editor-screen.png" alt="QML Editor screen"/>
+
+<br/>
+
+<img align="center" src="resources/qml-editor--color-scheme-editor.png" alt="QML Editor color scheme"/>
 
 ### Features
 
