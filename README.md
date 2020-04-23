@@ -1,8 +1,27 @@
 # Working with Qt in CLion project
 
-This project is about helping Qt Community working in CLion.
+This project is about helping Qt Community working in JetBrains Editors like CLion, PyCharm etc.
 
 ## Plugins
+
+<img align="left" src="resources/QssHighlighterLogo.svg"/>
+<h3>QML Editor</h3>
+<a href="https://quickturnstudio.com">Download</a> |
+<a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Request feature</a> |
+<a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Report bug</a> |
+<a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Vote for feature</a><br/><br/>
+
+QML Editor helps to work with QML in JetBrains Editors
+
+Current version: 0.9
+
+### Features
+
+* QML syntax highlighting.
+* Incorrect syntax recognition
+* Customizable Code Color Scheme
+* Commenting block of codes
+* More soon...
 
 <img align="left" src="resources/QssHighlighterLogo.svg"/>
 <h3>Qt Style Sheet Highlighter</h3>
@@ -13,7 +32,8 @@ This project is about helping Qt Community working in CLion.
 
 
 Qt Style Sheet Highlighter plugin is free to use.
-It improves coding [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.html) experience in CLion.
+It improves coding [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.html) experience
+in JetBrains Editors.
 
 ### Features
 
@@ -33,7 +53,8 @@ It improves coding [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.html
 This plugin does not verify logic of QWidgets and does not support code completion.   
 
 ## Other plugins
-If you have any ideas or needs to boost your coding experience with QT, please [request a plugin or vote for existing idea](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues).
+If you have any ideas or needs to boost your coding experience with Qt,
+please [request a plugin or vote for existing idea](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues).
 
 ## Credits
 
