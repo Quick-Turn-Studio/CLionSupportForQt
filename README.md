@@ -13,13 +13,11 @@ This project is about helping Qt Community working in JetBrains Editors like CLi
 
 QML Editor helps to work with QML in JetBrains Editors
 
-Current version: 0.9
-
-<img align="center" width="617" src="resources/qml-editor-screen.png" alt="QML Editor screen"/>
+<img align="center" src="resources/qml-editor-screen.png" alt="QML Editor screen"/>
 
 <br/>
 
-<img align="center" src="resources/qml-editor--color-scheme-editor.png" alt="QML Editor color scheme"/>
+<img align="center" src="resources/qml-editor-color-scheme-editor.png" alt="QML Editor color scheme"/>
 
 ### Features
 
