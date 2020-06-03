@@ -1,8 +1,34 @@
 # Working with Qt in CLion project
 
-This project is about helping Qt Community working in CLion.
+This project is about helping Qt Community working in JetBrains Editors like CLion, PyCharm etc.
 
 ## Plugins
+
+<img align="left" src="resources/QmlEditorLogo.svg"/>
+<h3>QML Editor</h3>
+<a href="https://plugins.jetbrains.com/plugin/14430-qml-editor">Download</a> |
+<a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Request feature</a> |
+<a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Report bug</a> |
+<a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Vote for feature</a><br/><br/>
+
+QML Editor helps to work with QML in JetBrains Editors.
+
+QML Editor 0.9 is beta version with 50% discount and fallback licence,
+so if you buy it now you will have access to full version for a bought subscription period.
+
+<img align="center" src="resources/qml-editor-screen.png" alt="QML Editor screen"/>
+
+<br/>
+
+<img align="center" src="resources/qml-editor-color-scheme-editor.png" alt="QML Editor color scheme"/>
+
+### Features
+
+* QML syntax highlighting.
+* Incorrect syntax recognition
+* Customizable Code Color Scheme
+* Commenting block of codes
+* More soon...
 
 <img align="left" src="resources/QssHighlighterLogo.svg"/>
 <h3>Qt Style Sheet Highlighter</h3>
@@ -13,7 +39,8 @@ This project is about helping Qt Community working in CLion.
 
 
 Qt Style Sheet Highlighter plugin is free to use.
-It improves coding [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.html) experience in CLion.
+It improves coding [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.html) experience
+in JetBrains Editors.
 
 ### Features
 
@@ -33,7 +60,8 @@ It improves coding [Qt Style Sheet files](https://doc.qt.io/qt-5/stylesheet.html
 This plugin does not verify logic of QWidgets and does not support code completion.   
 
 ## Other plugins
-If you have any ideas or needs to boost your coding experience with QT, please [request a plugin or vote for existing idea](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues).
+If you have any ideas or needs to boost your coding experience with Qt,
+please [request a plugin or vote for existing idea](https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues).
 
 ## Credits
 
