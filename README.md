@@ -6,12 +6,15 @@ This project is about helping Qt Community working in JetBrains Editors like CLi
 
 <img align="left" src="resources/QmlEditorLogo.svg"/>
 <h3>QML Editor</h3>
-<a href="https://quickturnstudio.com">Download</a> |
+<a href="https://plugins.jetbrains.com/plugin/14430-qml-editor">Download</a> |
 <a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Request feature</a> |
 <a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Report bug</a> |
 <a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Vote for feature</a><br/><br/>
 
-QML Editor helps to work with QML in JetBrains Editors
+QML Editor helps to work with QML in JetBrains Editors.
+
+QML Editor 0.9 is beta version with 50% discount and fallback licence,
+so if you buy it now you will have access to full version for a bought subscription period.
 
 <img align="center" src="resources/qml-editor-screen.png" alt="QML Editor screen"/>
 
