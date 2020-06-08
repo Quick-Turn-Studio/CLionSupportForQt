@@ -6,7 +6,7 @@ This project is about helping Qt Community working in JetBrains Editors like CLi
 
 <img align="left" src="resources/QmlEditorLogo.svg"/>
 <h3>QML Editor</h3>
-<a href="https://plugins.jetbrains.com/plugin/14430-qml-editor">Download</a> |
+<a href="https://quickturnstudio.com/QML-Editorplugins.jetbrains.com/plugin/14434-qml-editor">Download</a> |
 <a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Request feature</a> |
 <a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Report bug</a> |
 <a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Vote for feature</a><br/><br/>
