@@ -4,6 +4,30 @@ This project is about helping Qt Community working in JetBrains Editors like CLi
 
 ## Plugins
 
+<img align="left" src="resources/QssEditorLogo.svg"/>
+<h3>Qt Stylesheets Editor</h3>
+<a href="https://quickturnstudio.com/QML-Editorplugins.jetbrains.com/plugin/14434-qml-editor">Download</a> |
+<a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Request feature</a> |
+<a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Report bug</a> |
+<a href="https://github.com/Quick-Turn-Studio/CLionSupportForQt/issues">Vote for feature</a><br/><br/>
+
+Qt Style Sheets Editor helps to work with Qt Style Sheets files.
+Qt Style Sheets Editor 0.9 is beta version with fallback licence,
+so if you buy it now you will have access to full version for a bought subscription period.
+
+<img align="center" width="617" src="resources/qss-editor.gif" alt="QSS-Highlighter-screen"/><br/>
+
+### Features
+
+* Syntax highlighting
+* Incorrect syntax recognition
+* Customizable Code Color Scheme
+* Commenting blocks of code
+* Code block folding
+* Completion for widget names, states and sub-objects
+* Property completion
+* Basic values completion for some properties
+
 <img align="left" src="resources/QmlEditorLogo.svg"/>
 <h3>QML Editor</h3>
 <a href="https://quickturnstudio.com/QML-Editorplugins.jetbrains.com/plugin/14434-qml-editor">Download</a> |
