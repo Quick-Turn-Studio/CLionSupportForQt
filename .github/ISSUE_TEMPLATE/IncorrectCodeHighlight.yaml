@@ -1,0 +1,35 @@
+name: Incorrect code highlight
+description: Report incorrect code parsing
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: dropdown
+    id: plugin
+    attributes:
+      label: Plugin
+      options:
+        - QML Editor
+        - Qt Style Sheets Editor
+        - Qt Style Sheets Highlighter
+    validations:
+      required: true
+
+  - type: textarea
+    id: code-example
+    attributes:
+      label: Code example
+      placeholder: "Put example code that plugin parses incorrectly"
+    validations:
+      required: true
+
+  - type: input
+    id: reference
+    attributes:
+      label: Documentation reference
+      placeholder: "Please provide link to language documentation"
+    validations:
+      required: true

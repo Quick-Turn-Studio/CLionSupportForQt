@@ -1,0 +1,22 @@
+name: Other
+description: If any other issue types does not match
+body:
+  - type: dropdown
+    id: plugin
+    attributes:
+      label: Plugin
+      options:
+        - QML Editor
+        - Qt Style Sheets Editor
+        - Qt Style Sheets Highlighter
+        - New plugin
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: "Please put your message here"
+    validations:
+      required: true

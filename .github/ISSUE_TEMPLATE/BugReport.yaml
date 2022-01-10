@@ -1,0 +1,40 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+
+  - type: dropdown
+    id: plugin
+    attributes:
+      label: Plugin
+      options:
+        - QML Editor
+        - Qt Style Sheets Editor
+        - Qt Style Sheets Highlighter
+    validations:
+      required: true
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Describe the bug
+      placeholder: "Bug descriptions"
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: Reproduction steps
+      placeholder: "Steps to reproduce the behavior
+                    1. Go to '...'
+                    2. Click on '....'
+                    3. Scroll down to '....'
+                    4. See error"
+    validations:
+      required: true
